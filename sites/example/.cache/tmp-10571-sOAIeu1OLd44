@@ -1,0 +1,5 @@
+
+    const cmd = require("/Users/signalwerk/CODE/blog.data-validation/new/node_modules/gatsby/dist/commands/develop-process.js");
+    const args = {"_":["develop"],"verbose":false,"no-color":false,"no-colors":false,"noColors":false,"noColor":false,"json":false,"H":"localhost","host":"localhost","p":"8000","port":50665,"c":"","cert-file":"","certFile":"","k":"","key-file":"","keyFile":"","ca-file":"","caFile":"","graphql-tracing":false,"graphqlTracing":false,"$0":"gatsby","directory":"/Users/signalwerk/CODE/blog.data-validation/new/sites/example","browserslist":[">0.25%","not dead"],"sitePackageJson":{"name":"example.blog","version":"1.0.0","main":"index.js","author":"Stefan Huber <sh@signalwerk.ch>","license":"MIT","scripts":{"build":"gatsby build --prefix-paths","develop":"gatsby develop"},"dependencies":{"gatsby":"^2.0.19","gatsby-theme-signalwerk":"*"}},"report":{"errorMap":{}},"useYarn":false,"proxyPort":8000,"ssl":null,"debugInfo":null};
+    cmd(args);
+  
